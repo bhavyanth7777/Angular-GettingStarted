@@ -1,6 +1,7 @@
 # Angular-Getting Started
-This is a test for learning squashing and merge
-This is another line to create multiple commits
+#This is a test for learning squashing and merge
+#This is another line to create multiple commits
+This is a third line to check the squash and merge part, after adding pull request restrictions
 Materials for the ["Angular: Getting Started"](http://bit.ly/Angular-GettingStarted) course on Pluralsight.
 
 `APM-Start`: The starter files set up for use in VSCode, WebStorm, or other editors. **Use this to code along with the course**. (Updated for <i>Angular version 8 or higher</i>)
